@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Spotify](https://spotify-sokhon.vercel.app/api/spotify)](https://open.spotify.com/user/31ocb3ub45yt75qik5c264nnigjm)"
+[![Spotify](https://sokhonc.vercel.app/api/spotify)](https://open.spotify.com/user/31ocb3ub45yt75qik5c264nnigjm)"
 
 <img src="https://github-readme-stats.vercel.app/api?username=SokhonC&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
