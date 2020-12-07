@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 [![Spotify](https://sokhonc.vercel.app/api/spotify)](https://open.spotify.com/user/31ocb3ub45yt75qik5c264nnigjm)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SokhonC&layout=compact&theme=tokyonight)
+
 <img src="https://github-readme-stats.vercel.app/api?username=SokhonC&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+## What I suffered with 
+
+Unity plus C#
